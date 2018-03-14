@@ -1,0 +1,8 @@
+E:\winform\Git_Test\Git_Test\bin\Debug\Git_Test.exe
+E:\winform\Git_Test\Git_Test\bin\Debug\Git_Test.pdb
+E:\winform\Git_Test\Git_Test\obj\Debug\Git_Test.csprojResolveAssemblyReference.cache
+E:\winform\Git_Test\Git_Test\obj\Debug\Git_Test.Form1.resources
+E:\winform\Git_Test\Git_Test\obj\Debug\Git_Test.Properties.Resources.resources
+E:\winform\Git_Test\Git_Test\obj\Debug\Git_Test.csproj.GenerateResource.Cache
+E:\winform\Git_Test\Git_Test\obj\Debug\Git_Test.exe
+E:\winform\Git_Test\Git_Test\obj\Debug\Git_Test.pdb
