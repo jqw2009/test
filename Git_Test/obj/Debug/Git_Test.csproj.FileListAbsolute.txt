@@ -14,3 +14,4 @@ E:\winform\Git_Test2\test\Git_Test\obj\Debug\Git_Test.csprojResolveAssemblyRefer
 E:\winform\Git_Test2\test\Git_Test\obj\Debug\Git_Test.Form1.resources
 E:\winform\Git_Test2\test\Git_Test\obj\Debug\Git_Test.Properties.Resources.resources
 E:\winform\Git_Test2\test\Git_Test\obj\Debug\Git_Test.csproj.GenerateResource.Cache
+E:\winform\Git_Test\Git_Test\obj\Debug\Git_Test.Form4.resources
